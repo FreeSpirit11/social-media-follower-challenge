@@ -35,6 +35,8 @@ To run the Social Media Follower Challenge, make sure you have the following sof
 ## File Structure
 
 - `higher-lower-game.py`: Main program file for the Social Media Follower Challenge.
+
+- `game_data.py`: File containing data for social media accounts used in the game.
   
 - `art.py`: File containing ASCII art and visual elements for the game.
   
