@@ -4,8 +4,11 @@ Welcome to the Social Media Follower Challenge! Test your intuition by guessing 
 ## How to Play
 
 1.Run the program to start the game.
+
 2.Compare two social media accounts and guess which one has more followers.
+
 3.Keep guessing and aim for a high score.
+
 4.The game will provide feedback and display your final score.
 
 ## Game Rules
