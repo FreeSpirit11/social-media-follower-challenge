@@ -1,4 +1,4 @@
-## Social Media Follower Challenge
+# Social Media Follower Challenge
 Welcome to the Social Media Follower Challenge! Test your intuition by guessing follower counts in this interactive Python game.
 
 ## How to Play
